@@ -8,9 +8,13 @@ Hier habe ich Listen für die Waschküche erstellt. Hier findet man folgende Dok
 
 Alle Listen sind hier als `.pdf` und als veränderbare `.xslx`-Datei anzutreffen.
 
-## Wie Drucke ich die Liste?
+## Download:
+ * Waschküchennliste:
+   * [PDF](https://raw.githubusercontent.com/T-DogCodes/WaschkuechenListen/main/Waschkueche%20Liste.pdf)
+   * [EXCEL](https://raw.githubusercontent.com/T-DogCodes/WaschkuechenListen/main/Waschkueche%20Liste.xlsx)
+ * Waschplan:
+   * [PDF](https://raw.githubusercontent.com/T-DogCodes/WaschkuechenListen/main/Waschplan.pdf)
+   * [EXCEL](https://raw.githubusercontent.com/T-DogCodes/WaschkuechenListen/main/Waschplan.xlsx)
 
- * **Alle Listen:** Clicke auf die grüne Schaltfläche `Code` und anschließend `Download ZIP`.
- * **Einzelne Datei:** Clicke auf eine Datei, danach auf den Download-Pfeil in der Rechten-Oberen Ecke.
 
-Nachdem die Liste heruntergeladen ist, muss sie nur noch mit einem entsprechenden Programm (z.B. Excel für `.xslx` oder Adobe Acrobat Reader für `.pdf`) geöffnet und vo dort gedruckt werden.
+Um eine Datei zu drucken, muss sie nur noch mit einem entsprechenden Programm (z.B. Excel für `.xslx` oder Adobe Acrobat Reader für `.pdf`) geöffnet und dort gedruckt werden.
